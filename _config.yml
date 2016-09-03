@@ -1,0 +1,14 @@
+name: American Açaí
+layout_spectrum: 0.86342359794466
+typography_spectrum: 0.613687887330236
+color:
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+  brandStrength: 0.9470602628086313
+  lightness: 0.029145891910885124
+  saturation: 0.7379949027885764
+  rhythmicContrast: 0.1994262012349136
